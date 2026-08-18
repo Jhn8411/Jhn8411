@@ -1,42 +1,62 @@
 # ♦️ JVK
 
+<br>
+
 **`Infraestrutura | Suporte de TI | Linux | Windows Server`**
 
-Bacharel em Ciência da Computação com experiência em ambiente corporativo, atuando em 
-projetos de sistemas internos, documentação técnica e colaboração entre usuários e equipes de 
-desenvolvimento. Atualmente direciono minha carreira para Infraestrutura de TI, com interesse em 
-suporte técnico, administração de ambientes e resolução de problemas em ambientes corporativos.
+<br>
 
+Bacharel em Ciência da Computação com experiência em ambiente corporativo, atuando em projetos de sistemas internos, documentação técnica e colaboração entre usuários e equipes de desenvolvimento. Atualmente direciono minha carreira para Infraestrutura de TI, com interesse em suporte técnico, administração de ambientes e resolução de problemas em ambientes corporativos.
 
----
-
+<br>
 
 ## 🛠️ Linguagens e Ferramentas
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+</p>
+
+<br>
 
 ---
 
+<br>
 
 ## ⚙️ Laboratórios e Projetos
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+| Projeto | Descrição | Link |
+|---------|-------------|------|
+| **Homelab de Infraestrutura** | Projeto com o objetivo de simular a criação de toda a infraestrutura de um ambiente corporativo com Active Directory. | — |
 
-<p align="left">
-  | Projeto | Descrição | Link |
-  |---------|-------------|------|
-  | **Homelab de Infraestrutura** | Projeto com o objetivo de criar simular a criação de toda a infraestrutura de um ambiente corporativo com Active Directory | — |
-</p>
-
+<br>
 
 ---
 
+<br>
 
 ## 📱 Contato
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="300px" align="right">
+
+<br>
+Gostou do meu perfil ou quer trocar uma ideia sobre infraestrutura? Sinta-se à vontade para me mandar uma mensagem!
+<br>
+<br>
+<br>
+
+<a href="www.linkedin.com/in/joão-vitor-caetano-de-carvalho-6475ab233" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:joao.caetano2784@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br clear="all">
